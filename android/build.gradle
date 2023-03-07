@@ -66,6 +66,6 @@ dependencies {
     implementation 'com.android.support:appcompat-v7:22.2.0'
     implementation 'com.google.android.material:material:1.2.1'
     implementation 'androidx.appcompat:appcompat:1.2.0'
-    implementation 'com.github.IgeeTheron:AndroidDocumentScanLibrary:v0.0.1'
+    implementation 'com.github.mbp27:AndroidDocumentScanLibrary:1.0.3'
 //    implementation 'com.github.ishaquehassan:AndroidDocumentScanLibrary:1.8.2'
 }
